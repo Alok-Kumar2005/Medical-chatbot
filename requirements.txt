@@ -8,4 +8,7 @@ faiss-cpu
 langchain_community
 langchain_groq
 langchain_experimental
+pinecone
+pinecone[grpc]
+langchain-pinecone
 -e .
